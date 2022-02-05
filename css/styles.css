@@ -1,0 +1,37 @@
+* {
+    background-color: #16140e;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h2 {
+    color: #d4c930;
+}
+
+p, li {
+    color: #dfda95;
+}
+
+ul li {
+    color:#ece037;
+    font-size: 20px;
+}
+
+a {
+    color:rgb(255, 115, 0);
+}
+
+.ind {
+    font-size: 24px;
+    font-family: "Times New Roman", serif;
+}
+
+img {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
