@@ -11,8 +11,13 @@ h1, h2 {
     color: #d4c930;
 }
 
+h2 {
+    margin-left: 15%;
+}
+
 p, li {
     color: #dfda95;
+    margin-left: 20%;
 }
 
 ul li {
